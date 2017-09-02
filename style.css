@@ -45,3 +45,18 @@
   flex-flow: column wrap;
   min-height: 100vh;
 }
+
+
+
+html{
+  background: #E8E8E8;
+}
+
+header .row .col{
+  background: black;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+
+}
